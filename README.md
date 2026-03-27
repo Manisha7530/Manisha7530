@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Manisha 👋
 
-<!--
-**Manisha7530/Manisha7530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about building real-world systems through AI, open source, and problem solving
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student (2nd Year)
+💡 Aspiring AI/ML Engineer
+🚀 Open Source Contributor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Current Focus
+
+* GSoC 2026 Preparation
+* Contributing to Apache Airflow & Optuna
+* DSA + Python + Machine Learning
+
+---
+
+## ⚙️ Tech Stack
+
+* Python
+* C++
+* Git & GitHub
+* Data Structures & Algorithms
+* Basic Machine Learning
+
+---
+
+## 🌍 Open Source
+
+### Apache Airflow
+
+* Contributed via pull requests (documentation improvements)
+* Actively engaging with maintainers
+
+### Optuna
+
+* Contribution in progress
+* Exploring ML optimization workflows
+
+---
+
+## 📌 Projects
+
+* (Coming Soon) Machine Learning Project
+* (Coming Soon) DSA Practice Repository
+
+---
+
+## 🎯 Goals
+
+* Become a GSoC 2026 Contributor
+* Build impactful Machine Learning projects
+* Contribute to large-scale open source systems
+
+---
+
+## 🔗 Connect
+
+[LinkedIn](https://linkedin.com/in/manisha-kumari-3a060b296)
