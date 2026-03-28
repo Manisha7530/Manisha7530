@@ -19,7 +19,6 @@
 ## ⚙️ Tech Stack
 
 * Python
-* C++
 * Git & GitHub
 * Data Structures & Algorithms
 * Basic Machine Learning
@@ -41,6 +40,21 @@
 ---
 
 ## 📌 Projects
+
+* ## 🚀 Featured Project
+
+### 🎙️ Jarvis AI Voice Assistant
+
+A modular voice-controlled AI assistant built using Python that integrates speech recognition, OpenAI APIs, and automation features.
+
+🔹 Voice command recognition (Speech-to-Text)
+🔹 AI-powered responses using OpenAI
+🔹 Text-to-Speech output (gTTS + Pygame)
+🔹 Web automation (Google, YouTube, etc.)
+🔹 Music playback & News API integration
+🔹 Secure API handling using `.env`
+
+📂 [View Project](https://github.com/your-username/jarvis-ai-assistant)
 
 * (Coming Soon) Machine Learning Project
 * (Coming Soon) DSA Practice Repository
