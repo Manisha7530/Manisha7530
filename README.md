@@ -2,7 +2,7 @@
 
 💻 Passionate about building real-world systems through AI, open source, and problem solving
 
-🎓 B.Tech CSE Student (2nd Year)
+🎓 B.Tech CSE Student (3rd Year)
 💡 Aspiring AI/ML Engineer
 🚀 Open Source Contributor
 
@@ -10,8 +10,8 @@
 
 ## 🧠 Current Focus
 
-* GSoC 2026 Preparation
-* Contributing to Apache Airflow & Optuna
+* GSSoC 2026 Preparation
+* Contributing to LeetlogAI
 * DSA + Python + Machine Learning
 
 ---
@@ -27,15 +27,15 @@
 
 ## 🌍 Open Source
 
-### Apache Airflow
+### GirlScript Summer of Code
 
 * Contributed via pull requests (documentation improvements)
 * Actively engaging with maintainers
 
-### Optuna
+### LeetlogAI
 
-* Contribution in progress
-* Exploring ML optimization workflows
+* Readme.md setup
+* Exploring Enhancement optimization workflows
 
 ---
 
@@ -63,7 +63,7 @@ A modular voice-controlled AI assistant built using Python that integrates speec
 
 ## 🎯 Goals
 
-* Become a GSoC 2026 Contributor
+* Become a GSSoC 2026 Contributor
 * Build impactful Machine Learning projects
 * Contribute to large-scale open source systems
 
